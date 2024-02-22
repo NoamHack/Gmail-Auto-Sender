@@ -32,4 +32,4 @@
 לאחר הפעלת הסקריפט, הוא ישלח דוא"ל עם הפרטים והצרופות שצוינו במרווחים קבועים, כפי שמוגדר במשתנה `send_interval` (האימייל שולח את האימייל במרווח של שעה, יחידות המידה הם שניות).
 
 
-15HXlNem15zXl9eUINec15fXpNeV16gg15zXpteUItecICggOg==
+15HXlNem15zXl9eUINec15fXpNeV16gg15zXnteZ15jXkSAoIDo=
